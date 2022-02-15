@@ -1,5 +1,7 @@
 # LoogiHttp
 
+[![Specs](https://github.com/JuulLabs-OSS/loogi_http/actions/workflows/specs.yml/badge.svg)](https://github.com/JuulLabs-OSS/loogi_http/actions/workflows/specs.yml)
+
 Provides a wrapper to external requests providing JSON parsing, logging, metrics, and more.
 
 ## Installation
