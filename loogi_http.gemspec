@@ -29,7 +29,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'faraday', '~> 1.0'
   spec.add_dependency 'faraday-cookie_jar', '~> 0.0.6'
-  spec.add_dependency 'faraday_middleware', '~> 1.0.0'
+  spec.add_dependency 'faraday_middleware', '~> 1.0'
 
   spec.add_development_dependency 'bundler', '>= 2.0'
   spec.add_development_dependency 'byebug', '~> 11.0'
