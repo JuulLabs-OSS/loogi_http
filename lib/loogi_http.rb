@@ -1,4 +1,3 @@
-require 'loogi_http/ruby2_keywords'
 require 'loogi_http/builder'
 require 'loogi_http/version'
 require 'loogi_http/middleware'
