@@ -1,5 +1,5 @@
-require 'faraday_middleware'
 require 'forwardable'
+require 'faraday/follow_redirects'
 
 module LoogiHttp
   # Configure a `Faraday::Connection` (aka a _stack_).
